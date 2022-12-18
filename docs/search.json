@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "RaySuPg",
+    "title": "Intro",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nGet new one!!\n\n1 + 1\n\n[1] 2"
+    "text": "This is Ray Su’ personal webpage."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Ray Su",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Ray’s research is focused on data science and data mining, and he is particularly interested in biomedical informatics and genomics. His current dissertation research aims to develop advanced statistical learning methods to integrate high dimensional data, such as multi-omics datasets, and extract disease-relevant features in thousands of heterogeneous biological elements and predict disease status in a unified supervised multi-omics framework. He has also been joining the Tulane Center for Biomedical Informatics and Genomics and working in the broad fields of bioinformatics related to multi-omics integration, such as high dimensional genomics, transcriptomics, epigenomics, and metabolomics data."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ray Su",
+    "section": "Education",
+    "text": "Education\nMS, Biostatistics, Tulane University School of Public Health and Tropical Medicine\nMPH, Community Health, Tulane University School of Public Health and Tropical Medicine\nBS, Medical Information Management, Kaohiung Medical University"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Ray Su",
+    "section": "Experience",
+    "text": "Experience\nUpdate soon."
+  },
+  {
+    "objectID": "about.html#research-areas",
+    "href": "about.html#research-areas",
+    "title": "Ray Su",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nBioinformatics\nMachine Learning\nMulti-Omics Integration\nGenetics"
   }
 ]

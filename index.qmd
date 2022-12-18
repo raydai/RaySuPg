@@ -1,13 +1,5 @@
 ---
-title: "RaySuPg"
+title: "Intro"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Get new one!!
-
-```{r}
-1 + 1
-```
+This is Ray Su' personal webpage.

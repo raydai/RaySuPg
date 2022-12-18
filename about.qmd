@@ -1,9 +1,52 @@
 ---
-title: "About"
+title: "Ray Su"
+image: figures/about/Ray_head.png
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/raydai
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=EsMeLP8AAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kuanjui-su-04591170/
 ---
 
-About this site
+Ray's research is focused on data science and data mining, and he is particularly interested in biomedical informatics and genomics. His current dissertation research aims to develop advanced statistical learning methods to integrate high dimensional data, such as multi-omics datasets, and extract disease-relevant features in thousands of heterogeneous biological elements and predict disease status in a unified supervised multi-omics framework. He has also been joining the Tulane Center for Biomedical Informatics and Genomics and working in the broad fields of bioinformatics related to multi-omics integration, such as high dimensional genomics, transcriptomics, epigenomics, and metabolomics data.
 
-```{r}
-1 + 1
-```
+## Education
+
+MS, Biostatistics, Tulane University School of Public Health and Tropical Medicine
+
+MPH, Community Health, Tulane University School of Public Health and Tropical Medicine
+
+BS, Medical Information Management, Kaohiung Medical University
+
+## Research Areas
+
+-   Bioinformatics
+
+-   Machine Learning
+
+-   Multi-Omics Integration
+
+-   Genetics 
+
+# Courses
+
+-   Survival Data Analysis (BIOS 7300)
+
+-   Database Management (BIOS 6220)
+
+-   Introductory Biostat (BIOS 6030)
+
+# Publications
+
+Please view Ray Su's publications on his [NCBI page](https://www.ncbi.nlm.nih.gov/myncbi/1L9GixuK8brkXR/bibliography/public/).
+
+View Ray's [Google Scholar profile](https://scholar.google.com/citations?user=EsMeLP8AAAAJ&hl=en).\
