@@ -1,6 +1,7 @@
 ---
 title: "Ray Su"
 image: figures/about/Ray_head.png
+resources: files/CV_Ray Su_2022_v2.pdf
 about:
   template: trestles
   image-width: 10em
@@ -15,6 +16,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kuanjui-su-04591170/
+    - icon: file
+      text: CV
+      href: files/CV_Ray Su_2022_v2.pdf
 ---
 
 Ray's research is focused on data science and data mining, and he is particularly interested in biomedical informatics and genomics. His current dissertation research aims to develop advanced statistical learning methods to integrate high dimensional data, such as multi-omics datasets, and extract disease-relevant features in thousands of heterogeneous biological elements and predict disease status in a unified supervised multi-omics framework. He has also been joining the Tulane Center for Biomedical Informatics and Genomics and working in the broad fields of bioinformatics related to multi-omics integration, such as high dimensional genomics, transcriptomics, epigenomics, and metabolomics data.
