@@ -1,0 +1,12 @@
+---
+title: "Poster"
+listing:
+  contents:
+    - "Blog/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+
+

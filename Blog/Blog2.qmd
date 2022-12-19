@@ -1,0 +1,14 @@
+---
+title: "Poster 2"
+listing:
+  contents: post
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+## Introduction
+
+Understanding intratumoral heterogeneity---the molecular variation among cells within a tumor---promises to address outstanding questions in cancer biology and improve the diagnosis and treatment of specific cancer subtypes. Single-cell analyses, especially RNA sequencing and other genomics modalities, have been transformative in revealing novel biomarkers and molecular regulators associated with tumor growth, metastasis and drug resistance. However, these approaches fail to provide a complete picture of tumor biology, as information on cellular location within the tumor microenvironment is lost. New technologies leveraging multiplexed fluorescence, DNA, RNA and isotope labeling enable the detection of tens to thousands of cancer subclones or molecular biomarkers within their native spatial context. The expeditious growth in these techniques, along with methods for multiomics data integration, promises to yield a more comprehensive understanding of cell-to-cell variation within and between individual tumors. Here we provide the current state and future perspectives on the spatial technologies expected to drive the next generation of research and diagnostic and therapeutic strategies for cancer.
+
+![Figure 1](images/Screenshot%202022-12-13%20at%2011.43.34%20AM.png){width="366"}
