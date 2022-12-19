@@ -1,5 +1,26 @@
 ---
-title: "Intro"
+title: "Home"
+image: figures/about/Ray_head.png
+resources: files/CV_Ray Su_2022_v2.pdf
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links: 
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=EsMeLP8AAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/raydai
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kuanjui-su-04591170/
+    - icon: file
+      text: CV
+      href: files/CV_Ray Su_2022_v2.pdf
 ---
 
-This is Ray Su' personal webpage.
+Hey, I'm RAY SU.
+
+I'm a Biostatistician and Bioinformatics, mainly focused on data science in biomedical informatics and genomics.
