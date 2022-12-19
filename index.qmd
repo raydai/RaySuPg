@@ -1,10 +1,10 @@
 ---
 title: "Home"
-image: figures/about/Ray_head.png
+image: figures/about/MyEmoji.png
 resources: files/CV_Ray Su_2022_v2.pdf
 about:
   template: jolla
-  image-width: 15em
+  image-width: 12em
   image-shape: round
   links: 
     - icon: google
@@ -23,4 +23,4 @@ about:
 
 Hey, I'm RAY SU.
 
-I'm a Biostatistician and Bioinformatics, mainly focused on data science in biomedical informatics and genomics.
+I'm a Biostatistician and Bioinformatics in biomedical informatics and genomics.
