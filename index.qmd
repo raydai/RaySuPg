@@ -23,4 +23,4 @@ about:
 
 Hey, I'm RAY SU.
 
-I'm a Biostatistician and Bioinformatics at Tulane University and particularly interested in biomedical informatics and genomics. \
+I'm a Biostatistician and Bioinformatics at Tulane University and particularly interested in biomedical informatics and genomics.\
